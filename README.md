@@ -1,5 +1,5 @@
 # Zero
-A domain-driven-development framework focused on the asp .net core .
+A domain-driven-design framework focused on the asp .net core .
 
 Status : In developing... ,
 
