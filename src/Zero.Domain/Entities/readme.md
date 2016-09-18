@@ -1,0 +1,1 @@
+﻿soft-delete, audited, reference from the abp framework.
